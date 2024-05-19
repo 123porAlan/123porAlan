@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=123poralan&label=Profile%20views&color=0e75b6&style=flat" alt="123poralan" /> </p>
 
-- 🔭 I’m currently working on **a terminal chess**
+- 🔭 I’m currently working on **an advisory page for new computer science students**
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **linux distributions and emacs**
+- 💬 Ask me about **linux and emacs administration**
 
 - 📫 How to reach me **alanbellon@ciencias.unam.mx**
 
