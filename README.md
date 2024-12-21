@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **linux and emacs administration**
 
-- 📫 How to reach me **alan.bellon.00@gmail.com**
+- 📫 How to reach me **alanbellon@ciencias.unam.mx**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
