@@ -1,11 +1,7 @@
 ## Bio
 Hello! I'm Alan
 
-Since I was young, I had a natural curiosity for mathematics. Over time, that curiosity began to mix with bigger questions: what should I study?, how could I combine my interests?, and what does a car have to do with a Linux terminal?
-
-My path was anything but straight: I considered automotive engineering (spoiler: it didn't exist at UNAM), then physics caught my eye (thanks, The Big Bang Theory), but nothing fully convinced me... until I stumbled upon a subject called Cybernetics in my last semester of high school.
-
-There, I met a professor who not only taught well but also inspired me. I wrote him an email, he responded with humility, and gave me two great pieces of advice: study Computer Science and try GNU/Linux. I did both. Installing Linux Mint was love at first terminal: ever since then, I've been using and exploring the world of free software.
+Current QA at S4learning with two years of experience in testing at Asdrome, always learning. I could tell you what I'm capable of, but that's not the point, because things aren't just said, they're done, and when they're done, they say themselves.
 
 Nowadays:
 - I am interested in growing professionally as a QA.
@@ -19,7 +15,7 @@ I'm still learning, growing, and looking for new challenges. If we share interes
 
 > _"Code can also be art, if you know where to look."_
 
-**Current role:** Data Analyst 
+**Current role:** Software Testing Automation
 
 **Company:** S4Learning
 
