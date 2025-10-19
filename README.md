@@ -1,60 +1,34 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/123porAlan/count.svg?"  />
-</div>
+## Bio
+Hello! I'm Alan
 
-###
+Since I was young, I had a natural curiosity for mathematics. Over time, that curiosity began to mix with bigger questions: what should I study?, how could I combine my interests?, and what does a car have to do with a Linux terminal?
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=123porAlan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=123porAlan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+My path was anything but straight: I considered automotive engineering (spoiler: it didn't exist at UNAM), then physics caught my eye (thanks, The Big Bang Theory), but nothing fully convinced me... until I stumbled upon a subject called Cybernetics in my last semester of high school.
 
-###
+There, I met a professor who not only taught well but also inspired me. I wrote him an email, he responded with humility, and gave me two great pieces of advice: study Computer Science and try GNU/Linux. I did both. Installing Linux Mint was love at first terminal: ever since then, I've been using and exploring the world of free software.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/123porAlan/123porAlan/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/123porAlan/123porAlan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/123porAlan/123porAlan/output/pacman-contribution-graph.svg">
-</picture>
+Nowadays:
+- I am interested in growing professionally as a QA.
+- I continue to explore Linux, scripting, and everything related to Testing and Cloud.
+- I really enjoy theater, poetry, and going for runs in the morning.
+- My sports combo: track and field + basketball
 
-###
+What's next?
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
+I'm still learning, growing, and looking for new challenges. If we share interests (Cloud, Linux, dev testing, poetry, or just pretty scripts), don't hesitate to reach out.
 
-###
+> _"Code can also be art, if you know where to look."_
 
-<p align="left"> 👋 ¡Hola! Soy Alan<br><br>Desde pequeño tuve una curiosidad natural por las matemáticas. Con el tiempo, esa curiosidad se fue mezclando con preguntas más grandes: ¿qué estudiar?, ¿cómo combinar mis intereses?, ¿y qué tiene que ver un auto con una terminal de Linux?<br><br>Mi camino fue todo menos recto: pensé en ingeniería automotriz (spoiler: no existía en la UNAM), luego la física me llamó la atención (gracias, The Big Bang Theory), pero nada terminaba de convencerme... hasta que me topé con una materia llamada Cibernética en el último semestre de prepa.<br><br>Ahí conocí a un profesor que no solo enseñaba bien, sino que me inspiró. Le escribí un correo, me respondió con humildad y me dio dos grandes consejos: estudiar Ciencias de la Computación y probar GNU/Linux. Hice ambas cosas. Instalar Linux Mint fue amor a primera terminal: desde entonces uso y exploro el mundo del software libre.<br><br>Hoy en día:<br>- Me interesa crecer profesionalmente como QA.<br>- Sigo explorando Linux, scripting y todo lo que huela a Testing y Cloud.<br>- Disfruto mucho del teatro, la poesía, y salir a correr por las mañanas.<br>- Mi combo deportivo: atletismo + básquetbol 🏃🏽‍♂️🏀<br><br> 🚀 ¿Y ahora qué?<br><br>Sigo aprendiendo, creciendo y buscando nuevos retos. Si compartimos intereses (Cloud, Linux, dev testing, poesía o simplemente scripts bonitos), no dudes en escribirme.<br><br>> _"El código también puede ser arte, si sabes dónde mirar."_</p>
+**Current role:** Data Analyst 
 
-###
+**Company:** S4Learning
+
+**Learning:** SQL
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alan-bellon) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alan.bellon.00@gmail.com)
+
+#### Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=for-the-badge) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff&style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge) ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge) ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff&style=for-the-badge) ![Appium](https://img.shields.io/badge/Appium-EE376D?logo=appium&logoColor=fff&style=for-the-badge) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=for-the-badge)
+
+<!-- Proudly created with Readme Wizard ( www.leonardespi.me/readme-wizard ) -->
