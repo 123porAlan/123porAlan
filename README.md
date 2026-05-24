@@ -15,7 +15,7 @@ I'm still learning, growing, and looking for new challenges. If we share interes
 
 > _"Code can also be art, if you know where to look."_
 
-**Current role:** Software Testing Automation
+**Current role:** QA Engieneer
 
 **Company:** S4Learning
 
