@@ -1,7 +1,7 @@
 ## Bio
 Hello! I'm Alan
 
-Current QA at S4learning with two years of experience in testing at Asdrome, always learning. I could tell you what I'm capable of, but that's not the point, because things aren't just said, they're done, and when they're done, they say themselves.
+Current QA at MiClip with two years of experience in testing at Asdrome, always learning. I could tell you what I'm capable of, but that's not the point, because things aren't just said, they're done, and when they're done, they say themselves.
 
 Nowadays:
 - I am interested in growing professionally as a QA.
